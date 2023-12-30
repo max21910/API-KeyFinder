@@ -7,9 +7,7 @@ API Key Identification: Utilizes regular expressions to search for patterns that
 Output: Displays identified potential API keys along with the files where they were found.
 Usage
 Clone the Repository:
-bash
-Copy code
-git clone https://github.com/your_username/API-Key-Finder.git
+git clone https://github.com/max21910/API-KeyFinder.git
 Run the Script:
 bash
 Copy code
