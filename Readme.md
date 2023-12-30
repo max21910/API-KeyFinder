@@ -11,6 +11,10 @@ Clone the Repository:
 ```
 git clone https://github.com/max21910/API-KeyFinder.git
 ```
+install library : 
+```
+pip install -r requirements.txt
+```
 Run the Script:
 ```
 python api_key_finder.py -u "https://example.com"
