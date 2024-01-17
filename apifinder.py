@@ -99,7 +99,7 @@ if __name__ == "__main__":
                                                                  
     """)
     print("Made with ❤️  by max21910 in 🇫🇷")
-    print("Find it on github at :")
+    print("Find it on github at : https://github.com/max21910/API-KeyFinder?tab=readme-ov-file")
 
     parser = argparse.ArgumentParser(description='Download resources from a website')
     parser.add_argument('-u', '--url', type=str, help='URL of the website', required=True)
